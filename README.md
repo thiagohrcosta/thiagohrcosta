@@ -6,7 +6,8 @@
 
 **Certifications**<br>
 
- - [Linkedin - Ruby on Rails](https://www.linkedin.com/in/thiago-costa-3566a4176/)
+ - [Linkedin - Ruby on Rails](https://www.linkedin.com/in/thiago-costa-3566a4176/) <br>
+ - 
 ![linkedin](https://res.cloudinary.com/dloadb2bx/image/upload/v1621979563/certificacao_gas7kl.png)
 
 **Main Skills**<br>
