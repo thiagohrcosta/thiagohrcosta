@@ -4,7 +4,8 @@
 - ***CarreerKarma*** - 6th Best project of the Week - may 23, 2021
 		- [PlayTogether](https://careerkarma.com/discussions/projects/play-together-558/)
 
-**Certifications**
+**Certifications**<br>
+
 ![linkedin](https://res.cloudinary.com/dloadb2bx/image/upload/v1621979563/certificacao_gas7kl.png)
 
 **Main Skills**<br>
