@@ -4,6 +4,9 @@
 - ***CarreerKarma*** - 6th Best project of the Week - may 23, 2021
 		- [PlayTogether](https://careerkarma.com/discussions/projects/play-together-558/)
 
+- ***CarreerKarma*** - 8th Best project of the Month - may 2021
+		- [PlayTogether](https://careerkarma.com/discussions/projects/play-together-558/)
+
 **Certifications**<br>
 
  - [Linkedin - Ruby on Rails](https://www.linkedin.com/in/thiago-costa-3566a4176/) <br>
