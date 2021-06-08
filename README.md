@@ -3,7 +3,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thiagohrcosta&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thiagohrcosta&theme=dracula) 
 
-Markdown Usage
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thiagohrcosta&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thiagohrcosta&theme=dracula)
 
 **Awards**
