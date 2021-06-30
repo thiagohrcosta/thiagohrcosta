@@ -7,13 +7,13 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thiagohrcosta&theme=dracula)
 
 **Awards**
-- ***CarreerKarma*** - 6th Best project of the Week - may 23, 2021
+- ***CareerKarma*** - 6th Best project of the Week - may 23, 2021
 		- [PlayTogether](https://careerkarma.com/discussions/projects/play-together-558/)
 
-- ***CarreerKarma*** - 8th Best project of the Month - may 2021
+- ***CareerKarma*** - 8th Best project of the Month - may 2021
 		- [PlayTogether](https://careerkarma.com/discussions/projects/play-together-558/)
 
-- ***Real State API*** - 6th Best project of the Week - Jun 2021
+- ***CareerKarma*** - 6th Best project of the Week - Jun 2021
 		- [RealStateAPI](https://careerkarma.com/discussions/projects/real-state-api-811/)
 
 **Certifications**<br>
