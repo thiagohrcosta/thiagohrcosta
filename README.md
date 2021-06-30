@@ -15,6 +15,7 @@
 
 - ***Real State API*** - 6th Best project of the Week - Jun 2021
 		- [RealStateAPI](https://careerkarma.com/discussions/projects/real-state-api-811/)
+
 **Certifications**<br>
 
  - [Linkedin - Ruby on Rails](https://www.linkedin.com/in/thiago-costa-3566a4176/) <br>
