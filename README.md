@@ -1,3 +1,4 @@
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagohrcosta&theme=radical&show_icons=true)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thiagohrcosta&theme=dracula)
@@ -45,3 +46,17 @@
 
 **Social network** <br>
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/thiago-costa-3566a4176/)
+
+## Main Projects on this repository
+
+- [MedCare (Ruby On Rails | Postgresql)](https://github.com/thiagohrcosta/medcare)
+- [RealState Api(Ruby on Rails | Postgresql)](https://github.com/thiagohrcosta/realState-rails-api)
+- [PlayTogether(Ruby on Rails)](https://github.com/thiagohrcosta/rails-play-together)
+- [RVEventos - Freelance job(Ruby on Rails | Postgresql)](https://github.com/thiagohrcosta/rv-eventos-freelance-job)
+- [Geocoding (Ruby on Rails | Postgresql)](https://github.com/thiagohrcosta/geocoding)
+- [SoccerAPI(Ruby on Rails | Postgresql)](https://github.com/thiagohrcosta/soccer-api)
+- [Imdb_search (Ruby on Rails | Postgresql)](https://github.com/thiagohrcosta/imdb_search)
+- [OneBitFood (Ruby on Rails | React )](https://github.com/thiagohrcosta/OneBitFood)
+-  [WatchList (Ruby on Rails | Postgresql)](https://github.com/thiagohrcosta/rails-watch-list)
+- [Course List Manager  (Angular | Typescript | NodeJS)](https://github.com/thiagohrcosta/Course-List-Manager-Angular)
+- [Netflix Clone (JavaScript | NodeJS | MongoDB)](https://github.com/thiagohrcosta/NetflixClone-Digital-Innovation-One)
