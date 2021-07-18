@@ -49,6 +49,7 @@
 
 ## Main Projects on this repository
 
+- [TouristAPI (Ruby on Rails | Postgresql)(https://github.com/thiagohrcosta/tourist-app-API)
 - [MedCare (Ruby On Rails | Postgresql)](https://github.com/thiagohrcosta/medcare)
 - [RealState Api(Ruby on Rails | Postgresql)](https://github.com/thiagohrcosta/realState-rails-api)
 - [PlayTogether(Ruby on Rails)](https://github.com/thiagohrcosta/rails-play-together)
