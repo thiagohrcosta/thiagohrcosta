@@ -4,8 +4,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thiagohrcosta&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thiagohrcosta&theme=dracula) 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thiagohrcosta&theme=dracula)
-
 **Awards**
 - ***CareerKarma*** - 6th Best project of the Week - may 23, 2021
 		- [PlayTogether](https://careerkarma.com/discussions/projects/play-together-558/)
