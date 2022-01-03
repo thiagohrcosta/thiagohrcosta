@@ -50,8 +50,8 @@ More than 3,200 commits in 2021 between public and private repositories
 ## Main Projects on this repository
 
 ### React and Typescript
-- [IgNews](React | Typescript | Prismic)](https://github.com/thiagohrcosta/Ignite-IgNews)
-- [RocketShoes] (React | Typescript)](https://github.com/thiagohrcosta/Ignite-Desafio-02-RocketShoes)
+- [IgNews (React | Typescript | Prismic)](https://github.com/thiagohrcosta/Ignite-IgNews)
+- [RocketShoes (React | Typescript)](https://github.com/thiagohrcosta/Ignite-Desafio-02-RocketShoes)
 
 ### Ruby on Rails
 - [TouristAPI (Ruby on Rails | Postgresql)](https://github.com/thiagohrcosta/tourist-app-API)
