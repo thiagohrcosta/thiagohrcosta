@@ -49,6 +49,11 @@ More than 3,200 commits in 2021 between public and private repositories
 
 ## Main Projects on this repository
 
+### React and Typescript
+- [IgNews](React | Typescript | Prismic)](https://github.com/thiagohrcosta/Ignite-IgNews)
+- [RocketShoes] (React | Typescript)](https://github.com/thiagohrcosta/Ignite-Desafio-02-RocketShoes)
+
+### Ruby on Rails
 - [TouristAPI (Ruby on Rails | Postgresql)](https://github.com/thiagohrcosta/tourist-app-API)
 - [MedCare (Ruby On Rails | Postgresql)](https://github.com/thiagohrcosta/medcare)
 - [RealState Api(Ruby on Rails | Postgresql)](https://github.com/thiagohrcosta/realState-rails-api)
@@ -60,4 +65,6 @@ More than 3,200 commits in 2021 between public and private repositories
 - [OneBitFood (Ruby on Rails | React )](https://github.com/thiagohrcosta/OneBitFood)
 -  [WatchList (Ruby on Rails | Postgresql)](https://github.com/thiagohrcosta/rails-watch-list)
 - [Course List Manager  (Angular | Typescript | NodeJS)](https://github.com/thiagohrcosta/Course-List-Manager-Angular)
+
+### NodeJS
 - [Netflix Clone (JavaScript | NodeJS | MongoDB)](https://github.com/thiagohrcosta/NetflixClone-Digital-Innovation-One)
