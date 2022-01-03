@@ -56,6 +56,7 @@ More than 3,200 commits in 2021 between public and private repositories
 - [DtMoney (React | Typescript)](https://github.com/thiagohrcosta/Ignite-dtmoney)
 
 ### Ruby on Rails
+- [ECommerce API(Ruby on Rails | Postgresql)](https://github.com/thiagohrcosta/Ecommerce-Api)
 - [TouristAPI (Ruby on Rails | Postgresql)](https://github.com/thiagohrcosta/tourist-app-API)
 - [MedCare (Ruby On Rails | Postgresql)](https://github.com/thiagohrcosta/medcare)
 - [RealState Api(Ruby on Rails | Postgresql)](https://github.com/thiagohrcosta/realState-rails-api)
