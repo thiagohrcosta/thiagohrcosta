@@ -5,7 +5,8 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thiagohrcosta&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thiagohrcosta&theme=dracula) 
 
-**Awards**
+## Awards
+
 - ***CareerKarma*** - 6th Best project of the Week - may 23, 2021
 		- [PlayTogether](https://careerkarma.com/discussions/projects/play-together-558/)
 
@@ -15,7 +16,7 @@
 - ***CareerKarma*** - 6th Best project of the Week - Jun 2021
 		- [RealStateAPI](https://careerkarma.com/discussions/projects/real-state-api-811/)
 
-**Certifications**<br>
+## Certifications
 
  - [Linkedin - Ruby on Rails](https://www.linkedin.com/in/thiago-costa-3566a4176/) <br>
  
