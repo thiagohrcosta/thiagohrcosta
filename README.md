@@ -50,10 +50,18 @@ More than 3,200 commits in 2021 between public and private repositories
 ## Main Projects on this repository
 
 ### React and Typescript
+- [Widget (React | React Native | Typescript) (https://github.com/thiagohrcosta/NLW-Feedback-Widget)
+- [Todo List (React | Typescript)(https://github.com/thiagohrcosta/Ignite-Todo-Typescript)
+- [Ignite Feed( React | Typescript)(https://github.com/thiagohrcosta/Ignite-Feed-Typescript)
 - [Blog (React | Typescritp | Prismic)](https://www.behance.net/gallery/133840585/Re-design-Manga-App-UX-case-study)
 - [IgNews (React | Typescript | Prismic | Stripe)](https://github.com/thiagohrcosta/Ignite-IgNews)
 - [RocketShoes (React | Typescript)](https://github.com/thiagohrcosta/Ignite-Desafio-02-RocketShoes)
 - [DtMoney (React | Typescript)](https://github.com/thiagohrcosta/Ignite-dtmoney)
+
+### React Native and Typescript
+- [Todo List (React Native | Typescript (https://github.com/thiagohrcosta/Ignite-ReactNative-ToDo)
+- [MySkills (React Native | Typescript (https://github.com/thiagohrcosta/MySkills-ReactNative)
+- [GoPizza (React Native | Typescript (https://github.com/thiagohrcosta/GoPizza)
 
 ### Ruby on Rails
 - [ECommerce API(Ruby on Rails | Postgresql)](https://github.com/thiagohrcosta/Ecommerce-Api)
