@@ -57,6 +57,7 @@ More than 3,200 commits in 2021 between public and private repositories
 - [DtMoney (React | Typescript)](https://github.com/thiagohrcosta/Ignite-dtmoney)
 
 ### React Native and Typescript
+- [Rocket Help (React Native | Typescript)](https://github.com/thiagohrcosta/RocketHelp-React-Native)
 - [Todo List (React Native | Typescript)](https://github.com/thiagohrcosta/Ignite-ReactNative-ToDo)
 - [MySkills (React Native | Typescript)](https://github.com/thiagohrcosta/MySkills-ReactNative)
 - [GoPizza (React Native | Typescript)](https://github.com/thiagohrcosta/GoPizza)
