@@ -47,6 +47,7 @@ More than 3,200 commits in 2021 between public and private repositories
 ## Main Projects on this repository
 
 ### React and Typescript
+- [Coffee Delivery (React | Typescript)](https://github.com/thiagohrcosta/Coffee-delivery)
 - [Timer Pomodoro (React | Typescript)](https://github.com/thiagohrcosta/Ignite-Timer-Typescript)
 - [Widget (React | React Native | Typescript)](https://github.com/thiagohrcosta/NLW-Feedback-Widget)
 - [Todo List (React | Typescript)](https://github.com/thiagohrcosta/Ignite-Todo-Typescript)
