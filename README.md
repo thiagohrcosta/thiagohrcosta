@@ -53,7 +53,7 @@ More than 3,200 commits in 2021 between public and private repositories
 - [Widget (React | React Native | Typescript)](https://github.com/thiagohrcosta/NLW-Feedback-Widget)
 - [Todo List (React | Typescript)](https://github.com/thiagohrcosta/Ignite-Todo-Typescript)
 - [Ignite Feed( React | Typescript)](https://github.com/thiagohrcosta/Ignite-Feed-Typescript)
-- [Blog (React | Typescritp | Prismic)](https://www.behance.net/gallery/133840585/Re-design-Manga-App-UX-case-study)
+- [Blog (React | Typescritp | Prismic)](https://github.com/thiagohrcosta/Ignite-Desafio-03-NewsBlog)
 - [IgNews (React | Typescript | Prismic | Stripe)](https://github.com/thiagohrcosta/Ignite-IgNews)
 - [RocketShoes (React | Typescript)](https://github.com/thiagohrcosta/Ignite-Desafio-02-RocketShoes)
 - [DtMoney (React | Typescript)](https://github.com/thiagohrcosta/Ignite-dtmoney)
