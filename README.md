@@ -59,6 +59,7 @@ More than 3,200 commits in 2021 between public and private repositories
 - [DtMoney (React | Typescript)](https://github.com/thiagohrcosta/Ignite-dtmoney)
 
 ### React Native and Typescript
+- [RentX (React Native | Typescript)](https://github.com/thiagohrcosta/Ignite-RentX-ReactNative)
 - [Save Pass (React Native | Typescript)](https://github.com/thiagohrcosta/Ignite-SavePass-ReactNative)
 - [GoFinances (React Native | Typescript)](https://github.com/thiagohrcosta/GoFinances-React-Native)
 - [Rocket Help (React Native | Typescript)](https://github.com/thiagohrcosta/RocketHelp-React-Native)
