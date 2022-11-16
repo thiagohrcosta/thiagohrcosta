@@ -1,6 +1,9 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thiagohrcosta&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thiagohrcosta&theme=dracula) 
+![](https://github-readme-streak-stats.herokuapp.com/?user=thiagohrcosta&theme=tokyonight&hide_border=true)
+
+![graph](https://activity-graph.herokuapp.com/graph?username=thiagohrcosta&theme=tokyo-night&hide_border=true)
 
 ## Awards
 
@@ -84,6 +87,3 @@ More than 3,200 commits in 2021 between public and private repositories
 
 ### NodeJS
 - [Netflix Clone (JavaScript | NodeJS | MongoDB)](https://github.com/thiagohrcosta/NetflixClone-Digital-Innovation-One)
-
-
-![graph](https://activity-graph.herokuapp.com/graph?username=thiagohrcosta&theme=tokyo-night&hide_border=true)
