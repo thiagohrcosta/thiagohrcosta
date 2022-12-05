@@ -3,8 +3,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thiagohrcosta&theme=dracula) 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thiagohrcosta&theme=tokyonight&hide_border=true)
 
-![graph](https://activity-graph.herokuapp.com/graph?username=thiagohrcosta&theme=tokyo-night&hide_border=true)
-
 ## Awards
 
 - ***CareerKarma*** - 6th Best project of the Week - may 23, 2021
