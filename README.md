@@ -47,6 +47,9 @@ More than 3,200 commits in 2021 between public and private repositories
 
 ## Main Projects on this repository
 
+### NodeJS and Typescript
+- [Gym Pass (NodeJS | Typescript | Prisma | Docker)](https://github.com/thiagohrcosta/Ignite-Gym-Pass)
+
 ### React and Typescript
 - [DT Money Typescript 2.0 (React | Typescript | Vite)](https://github.com/thiagohrcosta/dt-money-typescript)
 - [Coffee Delivery (React | Typescript)](https://github.com/thiagohrcosta/Coffee-delivery)
