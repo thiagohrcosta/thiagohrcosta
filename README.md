@@ -2,6 +2,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thiagohrcosta&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thiagohrcosta&theme=dracula) 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thiagohrcosta&theme=tokyonight&hide_border=true)
+![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thiagohrcosta&theme=dracula)
 
 ## Awards
 
