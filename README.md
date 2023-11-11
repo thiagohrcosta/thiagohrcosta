@@ -49,6 +49,7 @@ More than 3,200 commits in 2021 between public and private repositories
 ## Main Projects on this repository
 
 ### NodeJS and Typescript
+- [Find A Friend API(NodeJS | Typescript | Prisma | Docker)](https://github.com/thiagohrcosta/Find-A-Friend-API) 
 - [Daily Diet API (NodeJS | Typescript | Knex)](https://github.com/thiagohrcosta/Daily-Diet-Api)
 - [Gym Pass (NodeJS | Typescript | Prisma | Docker)](https://github.com/thiagohrcosta/Ignite-Gym-Pass)
 
