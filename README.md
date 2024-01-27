@@ -51,6 +51,11 @@ More then 4.000 commits in 2023 between public and private repositories
 
 ## Main Projects on this repository
 
+### Python
+- [Api Digital Libray (Python | MySQL | Docker)](https://github.com/thiagohrcosta/api-digital-library)
+- [API Daily Diet (Python | MySQL | Docker)](https://github.com/thiagohrcosta/api-daily-diet)
+- [API Authentication (Python | MySQL | Docker)](https://github.com/thiagohrcosta/api-authentication-flask)
+  
 ### NodeJS and Typescript
 - [Find A Friend API(NodeJS | Typescript | Prisma | Docker)](https://github.com/thiagohrcosta/Find-A-Friend-API) 
 - [Daily Diet API (NodeJS | Typescript | Knex)](https://github.com/thiagohrcosta/Daily-Diet-Api)
