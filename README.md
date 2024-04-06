@@ -52,7 +52,9 @@ More then 4.000 commits in 2023 between public and private repositories
 ## Main Projects on this repository
 
 ### Python
-- [API Digital Libray (Python | MySQL | Docker)](https://github.com/thiagohrcosta/api-digital-library)
+- [MovieAPP-ML (Python | Docker | MySQL | Scikit-Learn | Flask)](https://github.com/thiagohrcosta/MovieApp-ML)
+- [Real Time Communication API (Python)](https://github.com/thiagohrcosta/real-time-communication)
+- [API Digital Libray (Python | MySQL | Docker | Flask)](https://github.com/thiagohrcosta/api-digital-library)
 - [API Daily Diet (Python | MySQL | Docker)](https://github.com/thiagohrcosta/api-daily-diet)
 - [API Authentication (Python | MySQL | Docker)](https://github.com/thiagohrcosta/api-authentication-flask)
   
