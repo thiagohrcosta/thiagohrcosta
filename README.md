@@ -26,8 +26,11 @@
 More than 3,200 commits in 2021 between public and private repositories
 ![enter image description here](https://res.cloudinary.com/dloadb2bx/image/upload/v1641213503/github_kid2oh.png)
 
-More then 4.000 commits in 2023 between public and private repositories
+More than 4.000 commits in 2023 between public and private repositories
 ![commits2023](https://res.cloudinary.com/dloadb2bx/image/upload/v1703687679/commits2023_fesael.png)
+
+More than 3.100 commits in 2024 between public and private repositories
+![image](https://github.com/user-attachments/assets/fa5fb170-3fea-4db1-848b-7fa9009820b0)
 
 ## Skills 
 
