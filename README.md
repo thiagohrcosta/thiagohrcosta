@@ -32,6 +32,9 @@ More than 4.000 commits in 2023 between public and private repositories
 More than 3.100 commits in 2024 between public and private repositories
 ![image](https://github.com/user-attachments/assets/fa5fb170-3fea-4db1-848b-7fa9009820b0)
 
+More than 2.400 commits in 2025 between public and private repositoires
+<img width="946" height="242" alt="image" src="https://github.com/user-attachments/assets/8e126dd8-6077-4097-aa74-756a45a62109" />
+
 ## Skills 
 
 **Main Skills**<br>
