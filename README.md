@@ -57,6 +57,9 @@ More than 2.400 commits in 2025 between public and private repositoires
 
 ## Main Projects on this repository
 
+### Capstone projects
+- [My-Bookshelf (Ruby on Rails | NextJS | React-Native | Python | Docker | Postgresql ](https://github.com/thiagohrcosta/MyBookShelf-Monorepo)
+
 ### Python
 - [MovieAPP-ML (Python | Docker | MySQL | Scikit-Learn | Flask)](https://github.com/thiagohrcosta/MovieApp-ML)
 - [Real Time Communication API (Python)](https://github.com/thiagohrcosta/real-time-communication)
