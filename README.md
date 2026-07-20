@@ -59,7 +59,8 @@ More than 2.400 commits in 2025 between public and private repositoires
 
 ### Capstone projects
 - [My-Bookshelf (Ruby on Rails | NextJS | React-Native | Python | Docker | Postgresql ](https://github.com/thiagohrcosta/MyBookShelf-Monorepo)
-
+- [Iron Cars Shop(Ruby on Rails | StimulusJS | Postgresql ](https://github.com/thiagohrcosta/Iron-Cars-Shop)
+- [Kinko - Your financial APP(Ruby on Rails - API | React Native](https://github.com/thiagohrcosta/Kinko-FinancialApp-Monorepo)
 ### Python
 - [MovieAPP-ML (Python | Docker | MySQL | Scikit-Learn | Flask)](https://github.com/thiagohrcosta/MovieApp-ML)
 - [Real Time Communication API (Python)](https://github.com/thiagohrcosta/real-time-communication)
