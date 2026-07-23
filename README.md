@@ -1,5 +1,8 @@
 <div align="center">
+
 **Software Engineer · Ruby on Rails & React · Backend-Focused Full-Stack**
+Brazil (Remote)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://thiago-vercel.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagocosta-3566a4176/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiagohrcosta86@gmail.com)
@@ -88,6 +91,22 @@ Product-oriented monorepo: a Rails API, Next.js web app, FastAPI recommendation 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thiagohrcosta&theme=dracula" alt="repos per language" width="48%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thiagohrcosta&theme=dracula" alt="most commit language" width="48%" />
 </div>
+
+<br>
+
+### Commit history
+
+More than 3,200 commits in 2021 between public and private repositories
+![enter image description here](https://res.cloudinary.com/dloadb2bx/image/upload/v1641213503/github_kid2oh.png)
+
+More than 4.000 commits in 2023 between public and private repositories
+![commits2023](https://res.cloudinary.com/dloadb2bx/image/upload/v1703687679/commits2023_fesael.png)
+
+More than 3.100 commits in 2024 between public and private repositories
+![image](https://github.com/user-attachments/assets/fa5fb170-3fea-4db1-848b-7fa9009820b0)
+
+More than 2.400 commits in 2025 between public and private repositoires
+<img width="946" height="242" alt="image" src="https://github.com/user-attachments/assets/8e126dd8-6077-4097-aa74-756a45a62109" />
 
 <br>
 
