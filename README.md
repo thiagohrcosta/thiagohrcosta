@@ -1,7 +1,6 @@
 <div align="center">
 
 **Software Engineer · Ruby on Rails & React · Backend-Focused Full-Stack**
-Brazil (Remote)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://thiago-vercel.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagocosta-3566a4176/)
