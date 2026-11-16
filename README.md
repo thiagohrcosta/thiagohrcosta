@@ -7,7 +7,7 @@
 
 [Portfolio](https://thiago-vercel.vercel.app/) [LinkedIn](https://www.linkedin.com/in/thiagocosta-3566a4176/) [Email](mailto:thiagohrcosta86@gmail.com)
 
-🌎 Remote from Brazil · Overlaps US Eastern/Central hours · Open to remote roles
+🌎 Remote from Brazil · Overlaps US Eastern/Central hours
 
 </div> <br>
 
